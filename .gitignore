@@ -1,4 +1,10 @@
 .DS_Store
+*/save.data*
+*/save.index*
+*/save.meta*
+checkpoint
+checkpoints
+__pycache__/
 
 # Ignore downloaded datasets
 embeddings/data/
